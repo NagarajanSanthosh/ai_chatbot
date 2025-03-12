@@ -10,15 +10,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
-<<<<<<< HEAD
     "@clerk/clerk-react": "^5.24.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-router-dom": "^7.3.0"
-=======
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0"
->>>>>>> 3ba259e8b9b8a4c5292f9ee8f7095ef66e5c78b4
   },
   "devDependencies": {
     "@eslint/js": "^9.21.0",
